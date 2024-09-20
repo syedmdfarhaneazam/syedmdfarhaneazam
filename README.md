@@ -13,6 +13,8 @@
 
 - 📫 **Let's connect**:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-md-farhan-e-azam-b21043279/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syed_md_farhan_e_azam?igsh=MWZsb2hqN2JobzE2aw==)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SYED_MD_FARHAN_E_AZAM/)
 
 - ⚡ **Fun fact**: I turn coffee ☕ into code 💻!
 
