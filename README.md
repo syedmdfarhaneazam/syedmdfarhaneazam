@@ -16,12 +16,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syed_md_farhan_e_azam?igsh=MWZsb2hqN2JobzE2aw==)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SYED_MD_FARHAN_E_AZAM/)
 
-- ⚡ **Fun fact**: I turn coffee ☕ into code 💻!
 
 - 🎨 **Skills & Tools**:  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- 🍥 **Extras**
+<details>
+  <summary>CLICK TO KNOW ABOUT ME</summary>
+  * <i>this user loves playing chess</i> ^_^
+  * <i>this user is a writer who loves coding</i> ƪ(˘⌣˘)ʃ
+  *  <i>coding without a touch of music is boring</i> ~_~
+</details> 
 
 ---
 
