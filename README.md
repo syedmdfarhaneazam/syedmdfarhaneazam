@@ -25,8 +25,8 @@
 - 🍥 **Extras**
 <details>
   <summary>CLICK TO KNOW ABOUT ME</summary>
-  1. <i>this user loves playing chess</i> ^_^
-  2. <i>this user is a writer who loves coding</i> ƪ(˘⌣˘)ʃ
+  1. <i>this user loves playing chess</i> ^_^ <br/>
+  2. <i>this user is a writer who loves coding</i> ƪ(˘⌣˘)ʃ <br/>
   3. <i>coding without a touch of music is boring</i> ~_~
 </details> 
 
