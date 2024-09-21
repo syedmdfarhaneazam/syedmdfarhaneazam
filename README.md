@@ -16,13 +16,26 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/syed_md_farhan_e_azam?igsh=MWZsb2hqN2JobzE2aw==)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SYED_MD_FARHAN_E_AZAM/)
 
-- ✨ **Languages**:
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
-
 - 🎨 **Skills & Tools**:  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- ✨ **Languages Used By Me**:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmdfarhaneazam&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+- 🐞 **My GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedmdfarhaneazam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+
+- 🎗️ **My LeetCode Stats**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SYED_MD_FARHAN_E_AZAM?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 - 🍥 **Extras**
 <details>
