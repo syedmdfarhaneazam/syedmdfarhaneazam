@@ -5,7 +5,7 @@
   - ![NEXT.js](https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
   - ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)  
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-- 💡 Looking to collaborate on projects involving:  
+- 💡 Looking to collaborate on projects involving:   
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
   - ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
   - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
