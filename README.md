@@ -12,23 +12,23 @@
 <!-- Flexbox container for two blocks side by side -->
 <div style="display: flex; justify-content: space-between;">
   <!-- Currently diving deep into -->
-  <div align="center" style="border: 1px solid gray; padding: 10px; width: 48%;">
+  <div  style="border: 1px solid gray; padding: 10px; width: 48%;">
     <b>🌱 Currently diving deep into:</b>  
     <p align="center">
-    <img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXT.js">  
-    <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">  
+    <img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXT.js"><br/>
+    <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"><br/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     </p> 
   </div>
 
   <!-- Looking to collaborate on projects involving -->
-  <div align="center" style="border: 1px solid gray; padding: 10px; width: 48%;">
+  <div  style="border: 1px solid gray; padding: 10px; width: 48%;">
     <b>💡 Looking to collaborate on projects involving:</b>  
     <p align="center"> 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">  
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">  
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">  
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"><br/> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"><br/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"><br/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"><br/>
     </p>
   </div>
 </div>
