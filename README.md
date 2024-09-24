@@ -66,7 +66,21 @@
     </td>
   </tr>
 </table>
-
+---
+<div align="center" style="border: 1px solid gray; padding: 10px;">
+<b>📫Let's connect</b>
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-md-farhan-e-azam-b21043279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/syed_md_farhan_e_azam?igsh=MWZsb2hqN2JobzE2aw==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://leetcode.com/u/SYED_MD_FARHAN_E_AZAM/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+</div>
 ---
 
 <div align="center" style="border: 1px solid gray; padding: 10px;">
