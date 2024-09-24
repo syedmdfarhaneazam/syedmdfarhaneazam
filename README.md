@@ -66,7 +66,9 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <div align="center" style="border: 1px solid gray; padding: 10px;">
 <b>📫Let's connect</b>
 <p align="center">
@@ -81,6 +83,7 @@
   </a>
 </p>
 </div>
+
 ---
 
 <div align="center" style="border: 1px solid gray; padding: 10px;">
