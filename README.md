@@ -1,13 +1,9 @@
 # 👋 Hey there! I'm **Syed Md Farhan E Azam** 🧑‍💻
----
 
-<div align="center" style="border: 1px solid gray; padding: 10px;">
 <b>🚀 I’m @syedmdfarhaneazam, a passionate <span style="color:#1abc9c">Fullstack Developer</span> looking to contribute to exciting projects!</b>
-</div>
 
 ---
 
-<!-- Table for two sections side by side -->
 <table>
   <tr>
     <td style="border: 1px solid gray; padding: 10px;">
@@ -32,7 +28,6 @@
 
 ---
 
-<!-- Table for Skills & Tools -->
 <table>
   <tr>
     <td style="border: 1px solid gray; padding: 10px;">
@@ -49,7 +44,6 @@
 
 ---
 
-<!-- Table for GitHub and Languages side by side -->
 <table>
   <tr>
     <td style="border: 1px solid gray; padding: 10px;">
