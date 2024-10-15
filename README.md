@@ -84,7 +84,7 @@
 <b>🎗️ My LeetCode Stats</b>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SYED_MD_FARHAN_E_AZAM?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
-  <img src="[https://leetcode-badge-showcase.vercel.app/api?username={SYED_MD_FARHAN_E_AZAM}&animated=true](https://leetcode-badge-showcase.vercel.app/api?username=SYED_MD_FARHAN_E_AZAM&theme=tokyonight&filter=comp&border=border&animated=true)" alt="LeetCode Badges"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=SYED_MD_FARHAN_E_AZAM&theme=tokyonight&filter=comp&border=border&animated=true" alt="LeetCode Badges"/>
 </p>
 </div>
 
