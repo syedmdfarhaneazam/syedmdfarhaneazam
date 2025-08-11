@@ -9,18 +9,27 @@
     <td style="border: 1px solid gray; padding: 10px;">
       <b>🌱 Currently diving deep into:</b>  
       <p align="center">
-      <img src="https://img.shields.io/badge/NEXT.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXT.js"><br/>
-      <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="60" alt="Hadoop" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="60" alt="HDFS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="GCP" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="60" alt="Apache Spark" />
+        <img src="https://handwiki.org/wiki/images/thumb/b/bb/Apache_Hive_logo.svg/800px-Apache_Hive_logo.svg.png" width="60" alt="Hive" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" alt="Kafka" />
+        <img src="https://companieslogo.com/img/orig/databricks-c40eaf44.png?t=1720244494" width="60" alt="Databricks" />
       </p> 
     </td>
     <td style="border: 1px solid gray; padding: 10px;">
-      <b>💡 Looking to collaborate on projects involving:</b>  
+      <b>💡 Ready to collaborate on:</b>  
       <p align="center"> 
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"><br/> 
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"><br/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js" />
+        <img src="https://picperf.io/https://designtotailwind.com/images/tailwind.png" width="60" alt="Tailwind CSS" />
+        <img src="https://favicon.im/https://motion.dev/" width="60" alt="FRAMER MOTION" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="SQL" />
       </p>
     </td>
   </tr>
@@ -31,12 +40,18 @@
 <table>
   <tr>
     <td style="border: 1px solid gray; padding: 10px;">
-      <b>🎨 Skills & Tools:</b>  
+      <b>🎨 Languages & Tools:</b>  
       <p align="center">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">  
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">  
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" alt="Shell" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" alt="Linux" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="60" alt="Neovim" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="60" alt="Vim" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code" />
       </p>
     </td>
   </tr>
@@ -64,7 +79,7 @@
 ---
 
 <div align="center" style="border: 1px solid gray; padding: 10px;">
-<b>📫Let's connect</b>
+<b>📫 Let's connect</b>
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-md-farhan-e-azam-b21043279/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -84,7 +99,7 @@
 <b>🎗️ My LeetCode Stats</b>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SYED_MD_FARHAN_E_AZAM?theme=dark&ext=heatmap" alt="LeetCode Stats" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=SYED_MD_FARHAN_E_AZAM&theme=tokyonight&animated=true" alt="LeetCode Badges"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=SYED_MD_FARHAN_E_AZAM&theme=tokyonight&animated=true" alt="LeetCode Badges" style="padding-bottom: 20px;" />
 </p>
 </div>
 
@@ -94,9 +109,9 @@
 <b>🍥 Extras</b>
 <details>
   <summary>CLICK TO KNOW ABOUT ME</summary>
-  1. <i>this user loves playing chess</i> ^_^ <br/>
-  2. <i>this user is a writer who loves coding</i> ƪ(˘⌣˘)ʃ <br/>
-  3. <i>coding without a touch of music is boring</i> ~_~
+  1. <i>This user loves playing chess</i> ^_^ <br/>
+  2. <i>This user is a writer who loves coding</i> ƪ(˘⌣˘)ʃ <br/>
+  3. <i>Coding without a touch of music is boring</i> ~_~
 </details>
 </div>
 
